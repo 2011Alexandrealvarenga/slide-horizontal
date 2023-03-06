@@ -1,3 +1,3 @@
 # slide-horizontal
 
-	<img src="Capturar.PNG" alt="">
+	<img src="imagem.jpg" alt="">
